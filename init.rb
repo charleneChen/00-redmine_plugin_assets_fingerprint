@@ -1,0 +1,2 @@
+require_dependency 'redmine_plugin_patch'
+require_dependency 'application_helper_patch_for_fingerprint'
